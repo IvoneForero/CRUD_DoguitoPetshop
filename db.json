@@ -1,0 +1,19 @@
+{
+  "perfil": [
+    {
+      "nombre": "Pancho",
+      "email": "pancho@alura.com",
+      "id": 1
+    },
+    {
+      "nombre": "Ivon",
+      "email": "ivon@ssss.com",
+      "id": "2206a1b5-0da4-46e5-af65-bfb70d1252d8"
+    },
+    {
+      "nombre": "Armando Diaz",
+      "email": "armando@ivone.com",
+      "id": "f46a3c35-d1ff-497c-8113-dece9b5c9c5b"
+    }
+  ]
+}
